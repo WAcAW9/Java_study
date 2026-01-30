@@ -1,0 +1,8 @@
+package com.wacaw.exam03;
+
+public class Calculator {
+	public int add(int a, int b) {
+		int sum = a + b;
+		return sum;
+	}
+}
